@@ -1,0 +1,8 @@
+{
+  "max_bytes": 500000,
+  "quality_max": 95,
+  "quality_min": 70,
+  "scale_step": 0.9,
+  "suffix": "_줄임",
+  "original_folder": "원본"
+}
